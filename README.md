@@ -6,7 +6,7 @@
 ## 🔗 Repositories
 [CVBOX - Arduino and ESP32 Code](https://github.com/rbunpat/CVBOX)\
 [ST_CVBOX - Node.js Backend + Discord Bot](https://github.com/rbunpat/ST_CVBOX)\
-[CVBOX-DETECTMASK - Python Face Mask Detection](https://github.com/rbunpat/CVBOX-DETECTMASK)
+[CVBOX-DETECTMASK - Python Face Mask Detection](https://github.com/rbunpat/CVBOX-DETECTMASK)\
 [CVBOX-WEB - CVBOX Website](https://github.com/rbunpat/CVBOX-WEB)
 ## Techs Used
 
