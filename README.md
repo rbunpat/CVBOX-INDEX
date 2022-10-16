@@ -4,10 +4,11 @@
 
 
 ## 🔗 Repositories
-[CVBOX - Arduino and ESP32 Code](https://github.com/rbunpat/CVBOX)\
-[ST_CVBOX - Node.js Backend + Discord Bot](https://github.com/rbunpat/ST_CVBOX)\
-[CVBOX-DETECTMASK - Python Face Mask Detection](https://github.com/rbunpat/CVBOX-DETECTMASK)\
-[CVBOX-WEB - CVBOX Website](https://github.com/rbunpat/CVBOX-WEB)
+[![st-card](https://github-readme-stats.vercel.app/api/pin/?username=rbunpat&repo=ST_CVBOX&theme=vue-dark)](https://github.com/rbunpat/ST_CVBOX)
+[![web-card](https://github-readme-stats.vercel.app/api/pin/?username=rbunpat&repo=CVBOX-WEB&theme=vue-dark)](https://github.com/rbunpat/CVBOX-WEB)\
+[![cvbox-card](https://github-readme-stats.vercel.app/api/pin/?username=rbunpat&repo=CVBOX&theme=vue-dark)](https://github.com/rbunpat/CVBOX)
+[![mask-card](https://github-readme-stats.vercel.app/api/pin/?username=rbunpat&repo=CVBOX-DETECTMASK&theme=vue-dark)](https://github.com/rbunpat/CVBOX-DETECTMASK)
+
 ## Techs Used
 
 **CVBOX :** Arduino, ESP32, C++, C
