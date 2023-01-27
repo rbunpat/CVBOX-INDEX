@@ -8,6 +8,7 @@
 [![web-card](https://rbunpat-gitstat.vercel.app/api/pin/?username=rbunpat&repo=CVBOX-WEB&theme=vue-dark&hide_border=true)](https://github.com/rbunpat/CVBOX-WEB)\
 [![cvbox-card](https://rbunpat-gitstat.vercel.app/api/pin/?username=rbunpat&repo=CVBOX&theme=vue-dark&hide_border=true)](https://github.com/rbunpat/CVBOX)
 [![mask-card](https://rbunpat-gitstat.vercel.app/api/pin/?username=rbunpat&repo=CVBOX-DETECTMASK&theme=vue-dark&hide_border=true)](https://github.com/rbunpat/CVBOX-DETECTMASK)
+[![fileserver-card](https://rbunpat-gitstat.vercel.app/api/pin/?username=rbunpat&repo=CVBOX-FILESERVER&theme=vue-dark&hide_border=true)](https://github.com/rbunpat/CVBOX-FILESERVER)
 
 ## Techs Used
 
@@ -18,3 +19,5 @@
 **CVBOX_DETECTMASK :** Python, OpenCV, Keras, TensorFlow, Caffe, MobileNetV2
 
 **CVBOX-WEB :** Vue.js, Node.js
+
+**CVBOX-FILESERVER :** Node.js, Express
